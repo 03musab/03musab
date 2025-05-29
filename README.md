@@ -72,8 +72,8 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=03musab&repo=project1&theme=radical&hide_border=true)](https://github.com/03musab/zenlog)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=03musab&repo=project2&theme=radical&hide_border=true)](https://github.com/03musab/APSIT-Chat-app)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=03musab&repo=zenlog&theme=radical&hide_border=true)](https://github.com/03musab/zenlog)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=03musab&repo=APSIT-Chat-app&theme=radical&hide_border=true)](https://github.com/03musab/APSIT-Chat-app)
 
 </div>
 
