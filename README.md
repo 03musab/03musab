@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **PORTFOLIO**
 - 🌱 I'm currently learning **DSA**
 - 👯 I'm looking to collaborate on **E-COMMERCE BASED PROJECTS**
 - 💬 Ask me about **WEB DEVLEOPMENT**
