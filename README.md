@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning **DSA**
 - 👯 I'm looking to collaborate on **E-COMMERCE BASED PROJECTS**
 - 💬 Ask me about **WEB DEVLEOPMENT**
-- 🖼️ Check out my portfolio https://03musab.github.io/musab.portfolio/
+- 🖼️ Check out my portfolio https://devmusab.vercel.app/
 - 📫 How to reach me: **musabimp.0@gmail.com**
 - ⚡ Fun fact: **I play as a striker in football and approach coding the same way - always aiming for clean, precise execution**
 
