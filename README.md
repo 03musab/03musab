@@ -132,6 +132,19 @@ Mindset      →  Simple • Precise • Useful
 <!-- Streak - Demolab Service -->
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Your Snake SVG -->
+<object data="snake.svg" type="image/svg+xml" width="880" height="192">
+  <img src="snake.svg" alt="Snake animation" />
+</object>
+
+<br/>
+<em style="color: #94a3b8; font-size: 14px;">Watch the snake eat my contributions! 🐍</em>
+
+</div>
 
 
 ## ✨ Beyond Code
