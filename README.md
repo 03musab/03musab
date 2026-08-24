@@ -93,48 +93,24 @@ Mindset      →  Simple • Precise • Useful
 
 ---
 
-## 🌙 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### ZenLog
-
-<a href="https://github.com/03musab/zenlog">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=03musab&repo=zenlog&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="ZenLog"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### APSIT Chat App
-
-<a href="https://github.com/03musab/APSIT-Chat-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=03musab&repo=APSIT-Chat-app&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="APSIT Chat App"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub
 
 <div align="center">
+
+<!-- GRINDING NOW Card -->
+
+<br/><br/>
 
 <!-- Stats Cards -->
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=03musab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub stats"/>
-  <br/>
-  <strong>📈 GitHub Stats</strong>
+  <a href="https://github-stats-extended.vercel.app/api?username=03musab&rank_icon=percentile&custom_title=GRINDING%20NOW%20%21%21&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=gruvbox_light">
+  <img src="https://github-stats-extended.vercel.app/api?username=03musab&rank_icon=percentile&custom_title=GRINDING%20NOW%20%21%21&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=gruvbox_light" width="100%" alt="GitHub Stats - Grinding Now"/>
+</a>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=03musab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Top languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=03musab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Top languages"/>
   <br/>
   <strong>💻 Top Languages</strong>
 </td>
@@ -143,29 +119,20 @@ Mindset      →  Simple • Precise • Useful
 
 <br/>
 
-<!-- Badges -->
+<!-- Stylish Badges -->
 <div align="center">
-  <img src="https://img.shields.io/github/stars/03musab?style=for-the-badge&logo=github&color=312e81&label=⭐%20Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/03musab?style=for-the-badge&logo=github&color=06b6d4&label=👥%20Followers" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=03musab&label=👀%20Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views"/>
+ 
+  <a href="https://github.com/03musab">
+    <img src="https://komarev.com/ghpvc/?username=03musab&label=👀%20Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=03musab&theme=tokyonight&hide_border=true&background=0d1117" width="70%" alt="GitHub streak"/>
-
+<!-- Streak - Demolab Service -->
 </div>
 
-## 🌌 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=03musab&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Contribution activity"/>
-
-</div>
-
----
 
 ## ✨ Beyond Code
 
