@@ -57,8 +57,38 @@ Mindset      →  Simple • Precise • Useful
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php,react,html,css,tailwind,nodejs,express,flask,mongodb,mysql,sqlite,redis,firebase,aws,oracle,docker,git,vscode&theme=dark" alt="Technology stack"/>
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts&theme=dark" alt="Frontend Stack"/>
+<br/>
+<em style="color: #94a3b8; font-size: 14px;">React · HTML · CSS · Tailwind · JavaScript · TypeScript</em>
 
+<br/><br/>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,java,php&theme=dark" alt="Backend Stack"/>
+<br/>
+<em style="color: #94a3b8; font-size: 14px;">Node.js · Express · Flask · Python · Java · PHP</em>
+
+<br/><br/>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,firebase&theme=dark" alt="Database Stack"/>
+<br/>
+<em style="color: #94a3b8; font-size: 14px;">MongoDB · MySQL · SQLite · Redis · Firebase</em>
+
+<br/><br/>
+
+<!-- Cloud & DevOps -->
+<img src="https://skillicons.dev/icons?i=aws,docker,git&theme=dark" alt="Cloud & DevOps Stack"/>
+<br/>
+<em style="color: #94a3b8; font-size: 14px;">AWS · Docker · Git</em>
+
+<br/><br/>
+<!-- Tools -->
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </div>
 
 ---
