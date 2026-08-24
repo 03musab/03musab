@@ -125,17 +125,37 @@ Mindset      →  Simple • Precise • Useful
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=03musab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=0d1117" alt="GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=03musab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top languages"/>
+<!-- Stats Cards -->
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=03musab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub stats"/>
+  <br/>
+  <strong>📈 GitHub Stats</strong>
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=03musab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Top languages"/>
+  <br/>
+  <strong>💻 Top Languages</strong>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=03musab&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak"/>
-
+<!-- Badges -->
+<div align="center">
+  <img src="https://img.shields.io/github/stars/03musab?style=for-the-badge&logo=github&color=312e81&label=⭐%20Stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/03musab?style=for-the-badge&logo=github&color=06b6d4&label=👥%20Followers" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=03musab&label=👀%20Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views"/>
 </div>
 
----
+<br/>
+
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=03musab&theme=tokyonight&hide_border=true&background=0d1117" width="70%" alt="GitHub streak"/>
+
+</div>
 
 ## 🌌 Contribution Activity
 
