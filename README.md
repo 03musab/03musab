@@ -119,13 +119,7 @@ Mindset      →  Simple • Precise • Useful
 
 <br/>
 
-<!-- Stylish Badges -->
-<div align="center">
- 
-  <a href="https://github.com/03musab">
-    <img src="https://komarev.com/ghpvc/?username=03musab&label=👀%20Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</div>
+
 
 <br/>
 
